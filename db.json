@@ -1,0 +1,50 @@
+{
+  "songs": [
+    {
+      "Name": "Lucky",
+      "Singers": "Britney",
+      "Year": "2001",
+      "Album": "LuckyAlb",
+      "Genre": "Drama",
+      "id": 1
+    },
+    {
+      "Name": "FIght Song",
+      "Singers": "Rachel",
+      "Year": "2020",
+      "Album": "FightAlb",
+      "Genre": "Action",
+      "id": 2
+    },
+    {
+      "Name": "Dynamite",
+      "Singers": "BTS",
+      "Year": "2020",
+      "Album": "BTS_Album",
+      "Genre": "Action",
+      "id": 3
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Horror"
+    },
+    {
+      "id": 3,
+      "name": "Romance"
+    },
+    {
+      "id": 4,
+      "name": "Drama"
+    },
+    {
+      "id": 5,
+      "name": "Sci-fi"
+    }
+  ]
+}

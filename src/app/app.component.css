@@ -1,0 +1,6 @@
+.bg-light{background-color:#04acbf!important;color:#fff!important}
+.navbar-light .navbar-nav .active > .nav-link,.navbar-light .navbar-nav .nav-link.show,.navbar-light .navbar-nav .nav-link.active{background-color:#37c4d4;color:#fff!important}
+.navbar-light .navbar-nav .nav-link{color:#fff!important}
+.navbar-light .navbar-nav .nav-link:hover,.navbar-light .navbar-nav .nav-link:focus{background-color:#37c4d4;color:#fff!important}
+.navbar{padding-top:0;padding-bottom:0}
+.navbar-brand,.navbar-toggler-icon{color:#fff!important}
